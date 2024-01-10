@@ -1,0 +1,26 @@
+body{
+
+  background-color: lightgreen;
+  font-family: 'roboto', sans-serif;
+}
+h1, h2, h3{
+  background-color: gold;
+  text-align: center;
+}
+p{
+  color: lemonchiffon;
+  font-size: 24px;
+  font-style:italic;
+}
+
+#especial{
+  font-weight: bold;
+  color: black;
+}
+img{
+  display: block;
+}
+img{
+  width: 15%;
+  margin: auto;
+}
